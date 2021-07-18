@@ -15,6 +15,12 @@ citing commit message:
 
 You can use any debugging tools to start the main executable or tests.
 
+This example session shows the result of calling `dap-debug` on the `Run Part A
+Debug` target, with a few extra tabs/breakpoints from other projects that are
+also being debugged elsewhere.
+
+![Example session](./media/dap-mode.png)
+
 The rest of the README is the original problem statement.
 
 # Day 9: Marble Mania
